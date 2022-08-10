@@ -1,0 +1,4 @@
+﻿  ATM Project.cpp
+E:\Computer sceince\ATM\ATM Project\ATM Project\ATM Project.cpp(8,9): warning C4101: 'bl': unreferenced local variable
+E:\Computer sceince\ATM\ATM Project\ATM Project\ATM Project.cpp(34,22): warning C4101: 'e': unreferenced local variable
+  ATM Project.vcxproj -> E:\Computer sceince\ATM\ATM Project\Debug\ATM Project.exe
